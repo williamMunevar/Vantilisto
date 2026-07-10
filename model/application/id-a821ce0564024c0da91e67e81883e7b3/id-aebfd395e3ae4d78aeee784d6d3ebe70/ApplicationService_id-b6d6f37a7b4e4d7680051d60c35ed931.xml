@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Service"
-    id="id-b6d6f37a7b4e4d7680051d60c35ed931"/>
+    name="financing-ms"
+    id="id-b6d6f37a7b4e4d7680051d60c35ed931"
+    documentation="&#xD;&#xA;API-rest (NodeJS) administra la lógica para llevar a término las financiaciones finalizadas que necesitamos en algunos casos reportar a nuestros Aliados.&#xD;&#xA;"/>
