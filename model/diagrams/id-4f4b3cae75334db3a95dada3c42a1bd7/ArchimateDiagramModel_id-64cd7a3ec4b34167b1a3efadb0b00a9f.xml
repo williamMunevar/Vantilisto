@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View."
+    name="FrontEnd"
     id="id-64cd7a3ec4b34167b1a3efadb0b00a9f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -43,8 +43,8 @@
           href="CompositionRelationship_id-54c01296040d42b99ece47f99803d514.xml#id-54c01296040d42b99ece47f99803d514"/>
     </sourceConnections>
     <bounds
-        x="319"
-        y="133"
+        x="276"
+        y="192"
         width="210"
         height="432"/>
     <children

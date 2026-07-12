@@ -7,10 +7,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9517d65ff8554733beb61b75a30b2d94">
     <bounds
-        x="348"
-        y="204"
-        width="488"
-        height="311"/>
+        x="444"
+        y="216"
+        width="440"
+        height="259"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5c0c6b5b96d14a86b7ecbb93764ca0cb">
@@ -33,8 +33,8 @@
             href="AccessRelationship_id-a1370b13ec214cb78a4ebacbfd9fe660.xml#id-a1370b13ec214cb78a4ebacbfd9fe660"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="108"
+          x="144"
+          y="72"
           width="133"
           height="85"/>
       <archimateElement
