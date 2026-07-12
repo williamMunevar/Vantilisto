@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sap-invoiced"
+    id="id-46c6913c931347a9a85bb804087bf308"
+    documentation="API-rest (NodeJS) servicio para realizar los procesos de facturación contra SAP."/>

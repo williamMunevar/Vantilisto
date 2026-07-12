@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tenant-financing"
+    id="id-e0f4a7d7d98849c4b7d531c242b8132d"
+    documentation="APIRest tiene la responsabilidad de gestionar solicitudes de financiamiento a arrendatarios"/>

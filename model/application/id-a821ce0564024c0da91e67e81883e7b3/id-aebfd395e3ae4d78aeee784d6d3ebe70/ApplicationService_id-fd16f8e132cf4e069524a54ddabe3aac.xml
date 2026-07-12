@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="balance-financing-manager-ms."
+    name="balance-financing-manager"
     id="id-fd16f8e132cf4e069524a54ddabe3aac"
     documentation="&#xD;&#xA;API-rest (NodeJS) administra el cupo de financiación para nuestros clientes, tanto el descuento como la liberación de cupo"/>
