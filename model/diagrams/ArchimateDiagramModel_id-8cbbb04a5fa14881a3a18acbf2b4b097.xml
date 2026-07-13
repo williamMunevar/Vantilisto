@@ -1012,8 +1012,8 @@
       id="id-c8d82bdd0c604182ababec1e0368a7c2"
       targetConnections="id-669fb4b51ebc43a7852d78aa486a399d id-63cbb59dc6554ecf9eb96053a07ae6d8">
     <bounds
-        x="1032"
-        y="609"
+        x="1151"
+        y="576"
         width="73"
         height="41"/>
     <archimateElement
@@ -1038,8 +1038,8 @@
       id="id-29e04900b915404f86343c9a5f4bb1fc"
       targetConnections="id-091a9bb7c0784ba4a19c62795b9dbb33">
     <bounds
-        x="1152"
-        y="555"
+        x="1008"
+        y="660"
         width="108"
         height="55"/>
     <archimateElement
