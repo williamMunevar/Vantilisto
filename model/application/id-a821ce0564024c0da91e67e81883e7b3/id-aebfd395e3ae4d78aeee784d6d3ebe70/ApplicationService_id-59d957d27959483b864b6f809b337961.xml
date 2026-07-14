@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="transaction-manager-ms"
+    name="transaction manager"
     id="id-59d957d27959483b864b6f809b337961"
     documentation="&#xD;&#xA;API-rest (NodeJS) servicio para suministrar capa de acceso a la BD transaccional de vantilisto."/>
