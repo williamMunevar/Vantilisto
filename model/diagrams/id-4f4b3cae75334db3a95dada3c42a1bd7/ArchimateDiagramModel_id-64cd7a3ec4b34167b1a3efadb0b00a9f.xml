@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FrontEnd"
+    name="BackOffice"
     id="id-64cd7a3ec4b34167b1a3efadb0b00a9f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
