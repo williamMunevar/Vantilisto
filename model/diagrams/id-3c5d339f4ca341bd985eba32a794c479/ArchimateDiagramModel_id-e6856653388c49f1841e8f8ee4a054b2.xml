@@ -715,9 +715,9 @@
             href="AccessRelationship_id-57406f52b4da44daadd06bbd95e953ad.xml#id-57406f52b4da44daadd06bbd95e953ad"/>
       </sourceConnections>
       <bounds
-          x="240"
+          x="132"
           y="48"
-          width="157"
+          width="265"
           height="43"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
@@ -739,10 +739,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8e7c772334e3440c9bf229bad17dad08">
       <bounds
-          x="60"
-          y="81"
-          width="120"
-          height="55"/>
+          x="18"
+          y="72"
+          width="84"
+          height="36"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_id-7a48c5ad0ad74c73b2fc33c86f3ec283.xml#id-7a48c5ad0ad74c73b2fc33c86f3ec283"/>
