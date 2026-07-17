@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Despliegue."
-    id="id-116de48a3c6f47f89d7b67547839de7a">
+    id="id-116de48a3c6f47f89d7b67547839de7a"
+    documentation="Score () de clientes vanti -&#xD;&#xA; Liberaración de oportunidades">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-19ad89cc90e04ebbaeda3d2ea53cbb40"
@@ -345,5 +346,73 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-ee56f481313b4340bb4c86de4d3dd383.xml#id-ee56f481313b4340bb4c86de4d3dd383"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0559c9da979944c18dcc04f1785d546a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9f3b5e64b79a4dc5b56a63cdba792ca1"
+        source="id-0559c9da979944c18dcc04f1785d546a"
+        target="id-f4991a1135a74d88a19eb68946e30824">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-364e3239189146eca740629696b5806b.xml#id-364e3239189146eca740629696b5806b"/>
+    </sourceConnections>
+    <bounds
+        x="-96"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-bdbad470613c47e1abe3d292c8d6a864.xml#id-bdbad470613c47e1abe3d292c8d6a864"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3a9aa6a0c4a24bfdb914d493d92b8817">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d1c54e99b4e54962a12c2afe13f38b4c"
+        source="id-3a9aa6a0c4a24bfdb914d493d92b8817"
+        target="id-6e3dce63ce0d40479597dbdf6358b1eb">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-888ce5a39640497780f0d04ba41a96a4.xml#id-888ce5a39640497780f0d04ba41a96a4"/>
+    </sourceConnections>
+    <bounds
+        x="1092"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-89ced7047ab44c40b5ad64169339cc62.xml#id-89ced7047ab44c40b5ad64169339cc62"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6e3dce63ce0d40479597dbdf6358b1eb"
+      targetConnections="id-d1c54e99b4e54962a12c2afe13f38b4c">
+    <bounds
+        x="1092"
+        y="389"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-5ee8597b3418473a91605d9f75f22997.xml#id-5ee8597b3418473a91605d9f75f22997"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f4991a1135a74d88a19eb68946e30824"
+      targetConnections="id-9f3b5e64b79a4dc5b56a63cdba792ca1">
+    <bounds
+        x="-96"
+        y="389"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-fca08d88dd9a4e299817702175e3033b.xml#id-fca08d88dd9a4e299817702175e3033b"/>
   </children>
 </archimate:ArchimateDiagramModel>

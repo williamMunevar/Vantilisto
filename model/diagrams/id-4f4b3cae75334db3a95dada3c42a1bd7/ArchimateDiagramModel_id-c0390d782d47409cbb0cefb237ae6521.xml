@@ -27,9 +27,9 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="264"
-        width="529"
-        height="171"/>
+        y="276"
+        width="505"
+        height="159"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-257e4b192da7403eaf8d06f1c6ef2fc5"
@@ -37,7 +37,7 @@
         type="1">
       <bounds
           x="348"
-          y="84"
+          y="72"
           width="109"
           height="36"/>
       <archimateElement
@@ -49,9 +49,9 @@
         id="id-7546284095954d12ba20733628b8396f"
         targetConnections="id-eb74226cde0c41458df89b31c61dee54 id-9b442139b52140279a42604ad9fb21e4">
       <bounds
-          x="324"
-          y="24"
-          width="168"
+          x="319"
+          y="12"
+          width="162"
           height="43"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -842,7 +842,7 @@
       <bounds
           x="30"
           y="204"
-          width="60"
+          width="43"
           height="36"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
@@ -865,7 +865,7 @@
       <bounds
           x="30"
           y="48"
-          width="60"
+          width="43"
           height="36"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
@@ -985,9 +985,9 @@
     </sourceConnections>
     <bounds
         x="894"
-        y="276"
+        y="300"
         width="120"
-        height="61"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:ApplicationProcess"
         href="ApplicationProcess_id-a66877837eaf4b18929813c035ed2baf.xml#id-a66877837eaf4b18929813c035ed2baf"/>
