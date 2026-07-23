@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JOBS - Krons (agenda)"
+    id="id-5e1493d02c1d49798f9be8b31cbd0b70">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-28cd9d14bab74be4a65a0248af5b96d1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-82887759c71a4affb29201f2feb25fde"
+        source="id-28cd9d14bab74be4a65a0248af5b96d1"
+        target="id-e4b3fca59b53492697834b43e5a03b73">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-b60241fa00b74149b2fc6e11e144551a.xml#id-b60241fa00b74149b2fc6e11e144551a"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="24"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-333e8e5edb9a4f26b079306c4a8fee49.xml#id-333e8e5edb9a4f26b079306c4a8fee49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e4b3fca59b53492697834b43e5a03b73"
+      targetConnections="id-82887759c71a4affb29201f2feb25fde">
+    <bounds
+        x="60"
+        y="108"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationEvent"
+        href="ApplicationEvent_id-84ad743efd164569a8ee5daa4171e8e0.xml#id-84ad743efd164569a8ee5daa4171e8e0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

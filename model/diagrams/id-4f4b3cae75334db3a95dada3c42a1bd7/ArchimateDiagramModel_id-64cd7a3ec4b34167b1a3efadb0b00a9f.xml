@@ -118,9 +118,9 @@
       targetConnections="id-b86fe0908c3c44a3893708dbb954d48a">
     <bounds
         x="396"
-        y="240"
+        y="36"
         width="120"
-        height="55"/>
+        height="493"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-eb3bd7ff44444fb390a9d921c32e1dbc.xml#id-eb3bd7ff44444fb390a9d921c32e1dbc"/>
